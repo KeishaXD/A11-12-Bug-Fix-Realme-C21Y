@@ -2,7 +2,7 @@
 
 This repository provides fixes for common issues found on the Realme C21Y device, specifically related to brightness and OTG functionality.
 
-## Fixes
+## Fixes :
 
 1. **Brightness Issue**
    - Resolved issues with screen brightness not functioning properly or being unresponsive.
@@ -12,6 +12,8 @@ This repository provides fixes for common issues found on the Realme C21Y device
    - Fixed problems with OTG detection and functionality.
    - Ensured proper recognition of external USB devices.
 
----
+## Download :
+To download this module, please go to the [Release page](https://github.com/KeishaXD/A11-12-Bug-Fix-Realme-C21Y/releases)
 
-**Disclaimer**: Use these fixes at your own risk. The contributors are not responsible for any potential damage to your device.
+## Disclaimer:
+Use these fixes at your own risk. The contributors are not responsible for any potential damage to your device.

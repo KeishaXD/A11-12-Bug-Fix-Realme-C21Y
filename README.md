@@ -2,7 +2,7 @@
 <img alt="A11-12 Bug Fix Banner" src="banner.jpg">
 </p>
 
-[![Xdroid UI Fixer Start](https://img.shields.io/github/stars/KeishaXD/Xdroid-UI-Fixer?style=social)]([[https://github.com/KeishaXD/Xdroid-UI-Fixer])
+[![A11-12 Bug Fix](https://img.shields.io/github/stars/KeishaXD/A11-12-Bug-Fix-Realme-C21Y)]([[https://github.com/KeishaXD/A11-12-Bug-Fix-Realme-C21Y])
 
 # Bug Fix for Realme C21Y
 

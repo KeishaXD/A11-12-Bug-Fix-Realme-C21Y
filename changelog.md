@@ -7,3 +7,4 @@ This module provides fixes for common issues found on Android 11 & Android 12 GS
 - Testing update button
 - Remake banner on github
 - Add verified on github
+- Fix downloas eror on magisk app

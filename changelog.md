@@ -5,3 +5,4 @@ This module provides fixes for common issues found on Android 11 & Android 12 GS
 ### Changelog
 
 - Testing update button
+- Remake banner on github

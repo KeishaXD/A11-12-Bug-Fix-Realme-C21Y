@@ -11,5 +11,5 @@ This module provides fixes for common issues found on Android 11 & Android 12 GS
 - Fix DAC Dongle 
 
 ## Credits
-- OTG Fix By Mr.J
+- OTG Fix By Mr.J (Telegram)
 - DAC Fix By FandyID (Telegram)

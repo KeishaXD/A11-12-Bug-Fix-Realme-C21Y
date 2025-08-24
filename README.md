@@ -14,9 +14,15 @@ This module provides fixes for common issues found on Android 11 & Android 12 GS
  
 2. **OTG Issue**
    - Fixed problems with OTG detection and functionality.
+
+3. **Fix DAC Issue**
+   - Fixed problem with DAC
    
 ## Download :
 To download this module, please go to the [Release page](https://github.com/KeishaXD/A11-12-Bug-Fix-Realme-C21Y/releases/latest)
+
+## Credits 
+To show all credit, please go to the [Changelog Page](https://raw.githubusercontent.com/KeishaXD/A11-12-Bug-Fix-Realme-C21Y/main/changelog.md)
 
 ## Disclaimer:
 Use these fixes at your own risk. The contributors are not responsible for any potential damage to your device.

@@ -1,0 +1,6 @@
+# Fix USB DAC
+persist.vendor.audio.bitdepth=32
+persist.vendor.audio.hires.buffer.size=1048576
+persist.vendor.audio.usb.support.format=384000
+persist.audio.usb.enable=true
+persist.audio.usb.exclusive=true

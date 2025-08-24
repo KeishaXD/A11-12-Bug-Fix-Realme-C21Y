@@ -8,3 +8,8 @@ This module provides fixes for common issues found on Android 11 & Android 12 GS
 - Remake banner on github
 - Add verified on github
 - Fix downloas eror on magisk app
+- Fix DAC Dongle 
+
+## Credits
+- OTG Fix By Mr.J
+- DAC Fix By FandyID (Telegram)

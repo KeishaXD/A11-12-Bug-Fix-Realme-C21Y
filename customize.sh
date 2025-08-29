@@ -1,6 +1,7 @@
 #!/system/bin/sh
 LATESTARTSERVICE=true
 
+
 # Menampilkan informasi awal
 ui_print "=========================================="
 ui_print "            MODULE INFO                 "
@@ -12,6 +13,7 @@ ui_print "    Support Root     : Magisk / KernelSU / APatch"
 ui_print "=========================================="
 ui_print " "
 sleep 1
+
 
 # Menampilkan informasi perangkat
 ui_print "    📱 DEVICE INFORMATION 📱"

@@ -30,6 +30,7 @@ ui_print "------------------------------------------"
 ui_print " "
 sleep 1
 
+
 # Menampilkan status pemasangan modul
 ui_print "📦 INSTALLING MODULES... 📦"
 ui_print "=========================================="

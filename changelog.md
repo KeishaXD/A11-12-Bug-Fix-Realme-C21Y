@@ -9,7 +9,9 @@ This module provides fixes for common issues found on Android 11 & Android 12 GS
 - Add verified on github
 - Fix downloas eror on magisk app
 - Fix DAC Dongle 
+- Fix 5W Charging 
 
 ## Credits
 - OTG Fix By Mr.J (Telegram)
 - DAC Fix By FandyID (Telegram)
+- Charging By Kenmanmen (Telegram)

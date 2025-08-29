@@ -1,7 +1,7 @@
 id=c21y-bug-fix-A11-12
 name=A11 & A12 Bug Fix For GSI Realme C21Y
-version=v1.7
-versionCode=7
+version=v1.8
+versionCode=8
 author=KeishaXD
-description=Fix Brightness & OTG
+description=Fix Brightness, OTG, DAC, and 5W Charging
 updateJson=https://raw.githubusercontent.com/KeishaXD/A11-12-Bug-Fix-Realme-C21Y/main/update.json

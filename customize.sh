@@ -11,7 +11,7 @@ ui_print "    Author           : KeishaXD"
 ui_print "    Support Root     : Magisk / KernelSU / APatch"
 ui_print "=========================================="
 ui_print " "
-sleep 1.5
+sleep 1
 
 # Menampilkan informasi perangkat
 ui_print "    📱 DEVICE INFORMATION 📱"
@@ -26,11 +26,11 @@ ui_print "    KERNEL VERSION : $(uname -r)"
 ui_print "    RAM            : $(free -m | grep Mem | awk '{print $2" MB"}')"
 ui_print "------------------------------------------"
 ui_print " "
-sleep 1.5
+sleep 1
 
 # Menampilkan status pemasangan modul
 ui_print "📦 INSTALLING MODULES... 📦"
 ui_print "=========================================="
 ui_print " "
-sleep 1.5
+sleep 1
 

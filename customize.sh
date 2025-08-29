@@ -1,6 +1,5 @@
-LATESTARTSERVICE=true
-
 #!/system/bin/sh
+LATESTARTSERVICE=true
 
 # Menampilkan informasi awal
 ui_print "=========================================="
